@@ -1,2 +1,2 @@
 # School-Management-System
-A School Management System (SMS) built using React is a web-based application designed to manage and automate various administrative and academic tasks in schools or educational institutions. This system allows seamless interaction between administrators, teachers, students, and parents while managing data efficiently.
+Integrating Stripe into a Java backend allows for secure processing of payments, subscriptions, and refunds. Stripe’s Java SDK makes it straightforward to implement payment workflows, whether for one-time purchases, subscriptions, or more advanced use cases like refunds and webhooks.
